@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinwenchao.github.io</id>
     <title>shalter</title>
-    <updated>2021-01-31T03:23:55.384Z</updated>
+    <updated>2021-01-31T04:32:48.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinwenchao.github.io"/>
     <link rel="self" href="https://jinwenchao.github.io/atom.xml"/>
@@ -10,6 +10,60 @@
     <logo>https://jinwenchao.github.io/images/avatar.png</logo>
     <icon>https://jinwenchao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, shalter</rights>
+    <entry>
+        <title type="html"><![CDATA[python Commit]]></title>
+        <id>https://jinwenchao.github.io/post/python-commit/</id>
+        <link href="https://jinwenchao.github.io/post/python-commit/">
+        </link>
+        <updated>2021-01-31T04:30:32.000Z</updated>
+        <content type="html"><![CDATA[<p>头文件</p>
+<pre><code class="language-python">#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+&quot;&quot;&quot;
+@Copyright : Coypright 2021 Shalter Inc
+@File      : ${NAME}.py
+@Introduce :
+
+@Version   : V1.0.1
+@Author    : shalter
+@Time      : ${DATE} ${TIME}
+&quot;&quot;&quot;
+</code></pre>
+<p>函数</p>
+<pre><code class="language-python">'''
+@Name		: funcion_name
+@Function	: funcion_description
+@input_para	: void
+@output_para: void
+@return		: void
+
+@Author		: shalter
+@Time		: ${DATA}${TIME}
+@Other_desc	: null
+@Modify		: Null
+'''
+</code></pre>
+<p>vim 添加头文件注释</p>
+<p>编辑C:\Program Files\Vim\_vimrc文件,在文件末未追加如下内容：</p>
+<pre><code>function HeaderPython()
+call setline(1, &quot;#!/usr/bin/env python&quot;)
+call append(1, &quot;#-*- coding:utf8 -*-&quot;)
+call append(2, &quot;#&quot;)
+call append(3, &quot;# Copyright	: Copyright 2021 Inc.&quot;)
+call append(4, &quot;# File			: .py&quot;)
+call append(5, &quot;# Introduce	: &quot;)
+call append(6, &quot;#&quot;)
+call append(7, &quot;# Version		: V1.0.1&quot;)
+call append(8, &quot;# Author		: wenchao jin&quot;)
+call append(9, &quot;# Time			: &quot;.strftime('%Y-%m-%d', localtime()))
+normal G
+normal o
+normal o
+endf
+autocmd bufnewfile *.py call HeaderPython()
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习一门新的编程语言]]></title>
         <id>https://jinwenchao.github.io/post/xue-xi-yi-men-xin-de-bian-cheng-yu-yan/</id>
