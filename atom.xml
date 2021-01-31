@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinwenchao.github.io</id>
     <title>shalter</title>
-    <updated>2021-01-29T04:50:16.707Z</updated>
+    <updated>2021-01-31T03:12:01.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinwenchao.github.io"/>
     <link rel="self" href="https://jinwenchao.github.io/atom.xml"/>
@@ -10,6 +10,81 @@
     <logo>https://jinwenchao.github.io/images/avatar.png</logo>
     <icon>https://jinwenchao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, shalter</rights>
+    <entry>
+        <title type="html"><![CDATA[学习一门新的编程语言]]></title>
+        <id>https://jinwenchao.github.io/post/xue-xi-yi-men-xin-de-bian-cheng-yu-yan/</id>
+        <link href="https://jinwenchao.github.io/post/xue-xi-yi-men-xin-de-bian-cheng-yu-yan/">
+        </link>
+        <updated>2021-01-31T02:57:23.000Z</updated>
+        <content type="html"><![CDATA[<p>1、学习目标</p>
+<p>本次学习的目标为提升自己的工作效率，应用到日常运维工作中，工作中涉及到账号的管理、消费数据的统计、三方数据接口的检测预警、其中考虑到学习的成本和收益，选择了使用python编程语言来实现以上功能。</p>
+<p>2、开发环境</p>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>版本</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>操作系统</td>
+<td>windows10</td>
+<td>操作系统版本</td>
+</tr>
+<tr>
+<td>python</td>
+<td>3.8.3</td>
+<td>编程语言</td>
+</tr>
+<tr>
+<td>pip3</td>
+<td>20.3.3</td>
+<td>python三方库的安装包</td>
+</tr>
+<tr>
+<td>git</td>
+<td>windows 2.24.1</td>
+<td>代码版本控制软件</td>
+</tr>
+<tr>
+<td>github</td>
+<td>github</td>
+<td>代码存储位置</td>
+</tr>
+<tr>
+<td>vim</td>
+<td>8.2</td>
+<td>代码编辑器</td>
+</tr>
+<tr>
+<td>sqlite</td>
+<td>3</td>
+<td>数据库</td>
+</tr>
+</tbody>
+</table>
+<p>3、学习方向</p>
+<ul>
+<li>数据获取</li>
+<li>数据整理</li>
+<li>数据可视化</li>
+</ul>
+<p>4、知识点</p>
+<ul>
+<li>python基础</li>
+<li>django框架</li>
+<li>python爬虫</li>
+</ul>
+<p>5、规范编制</p>
+<ul>
+<li>编码规范</li>
+<li>数据库设计规范</li>
+<li>设计文档</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jinwenchao.github.io/post/hello-gridea/</id>
