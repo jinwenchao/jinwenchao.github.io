@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinwenchao.github.io</id>
     <title>shalter</title>
-    <updated>2021-11-05T03:40:45.460Z</updated>
+    <updated>2021-11-05T04:01:58.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinwenchao.github.io"/>
     <link rel="self" href="https://jinwenchao.github.io/atom.xml"/>
@@ -11,12 +11,30 @@
     <icon>https://jinwenchao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, shalter</rights>
     <entry>
+        <title type="html"><![CDATA[峡望]]></title>
+        <id>https://jinwenchao.github.io/post/xia-wang/</id>
+        <link href="https://jinwenchao.github.io/post/xia-wang/">
+        </link>
+        <updated>2021-11-05T03:59:54.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/InweMV"><img src="https://z3.ax1x.com/2021/11/05/InweMV.md.jpg" alt="InweMV.md.jpg" loading="lazy"></a></figure>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[走乡]]></title>
         <id>https://jinwenchao.github.io/post/zou-xiang/</id>
         <link href="https://jinwenchao.github.io/post/zou-xiang/">
         </link>
         <updated>2021-11-05T03:28:10.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/InJM9K"><img src="https://z3.ax1x.com/2021/11/05/InJM9K.jpg" alt="InJM9K.jpg" loading="lazy"></a></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/InJM9K"><img src="https://z3.ax1x.com/2021/11/05/InJM9K.md.jpg" alt="InJM9K.md.jpg" loading="lazy"></a></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青丝]]></title>
+        <id>https://jinwenchao.github.io/post/zhu-shi/</id>
+        <link href="https://jinwenchao.github.io/post/zhu-shi/">
+        </link>
+        <updated>2021-01-31T04:31:07.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/InU8RP"><img src="https://z3.ax1x.com/2021/11/05/InU8RP.md.jpg" alt="InU8RP.md.jpg" loading="lazy"></a></figure>
 ]]></content>
     </entry>
     <entry>
