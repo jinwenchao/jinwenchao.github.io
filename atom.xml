@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinwenchao.github.io</id>
     <title>shalter</title>
-    <updated>2021-11-06T03:21:15.258Z</updated>
+    <updated>2021-11-06T03:22:11.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinwenchao.github.io"/>
     <link rel="self" href="https://jinwenchao.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://jinwenchao.github.io/images/avatar.png</logo>
     <icon>https://jinwenchao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, shalter</rights>
+    <entry>
+        <title type="html"><![CDATA[未知何向]]></title>
+        <id>https://jinwenchao.github.io/post/wei-zhi-he-xiang/</id>
+        <link href="https://jinwenchao.github.io/post/wei-zhi-he-xiang/">
+        </link>
+        <updated>2021-11-06T03:21:27.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/IMQAZn"><img src="https://z3.ax1x.com/2021/11/06/IMQAZn.md.jpg" alt="IMQAZn.md.jpg" loading="lazy"></a></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雨后]]></title>
         <id>https://jinwenchao.github.io/post/yu-hou/</id>
@@ -89,15 +98,6 @@
         </link>
         <updated>2021-11-06T03:15:12.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/IMMpu9"><img src="https://z3.ax1x.com/2021/11/06/IMMpu9.md.jpg" alt="IMMpu9.md.jpg" loading="lazy"></a></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[归途]]></title>
-        <id>https://jinwenchao.github.io/post/gui-tu/</id>
-        <link href="https://jinwenchao.github.io/post/gui-tu/">
-        </link>
-        <updated>2021-11-06T03:14:49.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/IMKxc4"><img src="https://z3.ax1x.com/2021/11/06/IMKxc4.md.jpg" alt="IMKxc4.md.jpg" loading="lazy"></a></figure>
 ]]></content>
     </entry>
 </feed>
