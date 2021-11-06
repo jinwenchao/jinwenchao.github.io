@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinwenchao.github.io</id>
     <title>shalter</title>
-    <updated>2021-11-06T03:04:17.529Z</updated>
+    <updated>2021-11-06T03:07:29.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinwenchao.github.io"/>
     <link rel="self" href="https://jinwenchao.github.io/atom.xml"/>
@@ -10,6 +10,42 @@
     <logo>https://jinwenchao.github.io/images/avatar.png</logo>
     <icon>https://jinwenchao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, shalter</rights>
+    <entry>
+        <title type="html"><![CDATA[离寄]]></title>
+        <id>https://jinwenchao.github.io/post/chi-ji/</id>
+        <link href="https://jinwenchao.github.io/post/chi-ji/">
+        </link>
+        <updated>2021-11-06T03:06:44.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/IMuxeI"><img src="https://z3.ax1x.com/2021/11/06/IMuxeI.md.jpg" alt="IMuxeI.md.jpg" loading="lazy"></a></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[骑行归里]]></title>
+        <id>https://jinwenchao.github.io/post/qi-xing-gui-li/</id>
+        <link href="https://jinwenchao.github.io/post/qi-xing-gui-li/">
+        </link>
+        <updated>2021-11-06T03:05:59.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/IMubWD"><img src="https://z3.ax1x.com/2021/11/06/IMubWD.md.jpg" alt="IMubWD.md.jpg" loading="lazy"></a></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[品面]]></title>
+        <id>https://jinwenchao.github.io/post/pin-mian/</id>
+        <link href="https://jinwenchao.github.io/post/pin-mian/">
+        </link>
+        <updated>2021-11-06T03:05:20.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/IMu2z4"><img src="https://z3.ax1x.com/2021/11/06/IMu2z4.md.jpg" alt="IMu2z4.md.jpg" loading="lazy"></a></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疏回]]></title>
+        <id>https://jinwenchao.github.io/post/shu-hui/</id>
+        <link href="https://jinwenchao.github.io/post/shu-hui/">
+        </link>
+        <updated>2021-11-06T03:04:21.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/IMuwss"><img src="https://z3.ax1x.com/2021/11/06/IMuwss.md.jpg" alt="IMuwss.md.jpg" loading="lazy"></a></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故乡弯月园]]></title>
         <id>https://jinwenchao.github.io/post/gu-xiang-wan-yue-yuan/</id>
@@ -62,144 +98,6 @@
         </link>
         <updated>2021-11-05T03:28:10.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/InJM9K"><img src="https://z3.ax1x.com/2021/11/05/InJM9K.md.jpg" alt="InJM9K.md.jpg" loading="lazy"></a></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青丝]]></title>
-        <id>https://jinwenchao.github.io/post/zhu-shi/</id>
-        <link href="https://jinwenchao.github.io/post/zhu-shi/">
-        </link>
-        <updated>2021-01-31T04:31:07.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/InU8RP"><img src="https://z3.ax1x.com/2021/11/05/InU8RP.md.jpg" alt="InU8RP.md.jpg" loading="lazy"></a></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[python 注释 ]]></title>
-        <id>https://jinwenchao.github.io/post/python-commit/</id>
-        <link href="https://jinwenchao.github.io/post/python-commit/">
-        </link>
-        <updated>2021-01-31T04:30:32.000Z</updated>
-        <content type="html"><![CDATA[<p>Head file - 头文件</p>
-<pre><code class="language-python">#!/usr/bin/env python
-# -*- encoding: utf-8 -*-
-&quot;&quot;&quot;
-@Copyright : Coypright 2021 Shalter Inc
-@File      : ${NAME}.py
-@Introduce :
-
-@Version   : V1.0.1
-@Author    : shalter
-@Time      : ${DATE} ${TIME}
-&quot;&quot;&quot;
-</code></pre>
-<p>Function - 函数</p>
-<pre><code class="language-python">'''
-@Name		: funcion_name
-@Function	: funcion_description
-@input_para	: void
-@output_para: void
-@return		: void
-
-@Author		: shalter
-@Time		: ${DATA}${TIME}
-@Other_desc	: null
-@Modify		: Null
-'''
-</code></pre>
-<p>vim 添加头文件注释</p>
-<p>编辑C:\Program Files\Vim\_vimrc文件,在文件末未追加如下内容：</p>
-<pre><code>function HeaderPython()
-call setline(1, &quot;#!/usr/bin/env python&quot;)
-call append(1, &quot;#-*- coding:utf8 -*-&quot;)
-call append(2, &quot;#&quot;)
-call append(3, &quot;# Copyright	: Copyright 2021 Inc.&quot;)
-call append(4, &quot;# File			: .py&quot;)
-call append(5, &quot;# Introduce	: &quot;)
-call append(6, &quot;#&quot;)
-call append(7, &quot;# Version		: V1.0.1&quot;)
-call append(8, &quot;# Author		: shalter&quot;)
-call append(9, &quot;# Time		: &quot;.strftime('%Y-%m-%d', localtime()))
-normal G
-normal o
-normal o
-endf
-autocmd bufnewfile *.py call HeaderPython()
-</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习一门新的编程语言]]></title>
-        <id>https://jinwenchao.github.io/post/xue-xi-yi-men-xin-de-bian-cheng-yu-yan/</id>
-        <link href="https://jinwenchao.github.io/post/xue-xi-yi-men-xin-de-bian-cheng-yu-yan/">
-        </link>
-        <updated>2021-01-31T03:21:00.000Z</updated>
-        <content type="html"><![CDATA[<p>1、学习目标</p>
-<p>本次学习的目标为提升自己的工作效率，应用到日常运维工作中，工作中涉及到账号的管理、消费数据的统计、三方数据接口的检测预警、其中考虑到学习的成本和收益，选择了使用python编程语言来实现以上功能。</p>
-<p>2、开发环境</p>
-<table>
-<thead>
-<tr>
-<th>项目</th>
-<th>版本</th>
-<th>备注</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>操作系统</td>
-<td>windows10</td>
-<td>操作系统版本</td>
-</tr>
-<tr>
-<td>python</td>
-<td>3.8.3</td>
-<td>主要编程语言</td>
-</tr>
-<tr>
-<td>pip3</td>
-<td>20.3.3</td>
-<td>python三方库的安装包</td>
-</tr>
-<tr>
-<td>git</td>
-<td>windows 2.24.1</td>
-<td>代码版本控制软件</td>
-</tr>
-<tr>
-<td>github</td>
-<td>github</td>
-<td>代码存储位置</td>
-</tr>
-<tr>
-<td>vim</td>
-<td>8.2</td>
-<td>代码编辑器</td>
-</tr>
-<tr>
-<td>sqlite</td>
-<td>3</td>
-<td>数据库</td>
-</tr>
-</tbody>
-</table>
-<p>3、学习方向</p>
-<ul>
-<li>数据获取</li>
-<li>数据整理</li>
-<li>数据可视化</li>
-</ul>
-<p>4、知识点</p>
-<ul>
-<li>python基础</li>
-<li>django框架</li>
-<li>python爬虫</li>
-</ul>
-<p>5、规范编制</p>
-<ul>
-<li>编码规范</li>
-<li>数据库设计规范</li>
-<li>设计文档</li>
-</ul>
 ]]></content>
     </entry>
 </feed>
