@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinwenchao.github.io</id>
     <title>shalter</title>
-    <updated>2021-11-07T03:17:01.369Z</updated>
+    <updated>2021-11-07T03:17:53.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinwenchao.github.io"/>
     <link rel="self" href="https://jinwenchao.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://jinwenchao.github.io/images/avatar.png</logo>
     <icon>https://jinwenchao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, shalter</rights>
+    <entry>
+        <title type="html"><![CDATA[秋怅]]></title>
+        <id>https://jinwenchao.github.io/post/qiu-chang/</id>
+        <link href="https://jinwenchao.github.io/post/qiu-chang/">
+        </link>
+        <updated>2021-11-07T03:17:27.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/IlTxtU"><img src="https://z3.ax1x.com/2021/11/07/IlTxtU.md.jpg" alt="IlTxtU.md.jpg" loading="lazy"></a></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[二层天]]></title>
         <id>https://jinwenchao.github.io/post/er-ceng-tian/</id>
@@ -89,15 +98,6 @@
         </link>
         <updated>2021-11-07T03:07:17.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/IlT8W4"><img src="https://z3.ax1x.com/2021/11/07/IlT8W4.md.jpg" alt="IlT8W4.md.jpg" loading="lazy"></a></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[误议]]></title>
-        <id>https://jinwenchao.github.io/post/wu-yi/</id>
-        <link href="https://jinwenchao.github.io/post/wu-yi/">
-        </link>
-        <updated>2021-11-07T03:06:28.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgtu.com/i/IlTmyn"><img src="https://z3.ax1x.com/2021/11/07/IlTmyn.md.jpg" alt="IlTmyn.md.jpg" loading="lazy"></a></figure>
 ]]></content>
     </entry>
 </feed>
